@@ -6,7 +6,7 @@
     "react": "^16.9.0",
     "react-apollo": "^3.0.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.3.2"
   },
   "scripts": {
@@ -36,7 +36,7 @@
     "eslint": "^6.1.0",
     "eslint-config-airbnb": "^18.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.0",
+    "eslint-plugin-jest": "^29.12.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
